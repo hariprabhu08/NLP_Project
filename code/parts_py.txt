@@ -1,0 +1,1 @@
+part 01 python code used for get transcription and saved to directory for all parts
